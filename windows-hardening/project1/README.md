@@ -92,5 +92,5 @@ A aplicação dessas medidas reduz drasticamente a superfície de ataque de uma 
 
 ---
 **Contato:**
-[Darwin Ramael]
-[www.linkedin.com/in/tecdarwin]
+Darwin Ramael
+www.linkedin.com/in/tecdarwin
