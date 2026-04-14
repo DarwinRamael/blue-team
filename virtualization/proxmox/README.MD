@@ -15,7 +15,7 @@ Este é o primeiro passo para criar um ecossistema de servidores isolados, permi
 
 A instalação do Proxmox é direta, mas exige atenção aos detalhes de disco.
 
-* **O que fazer:** Gravei a ISO em um pendrive (Ventoy/Rufus) e dei boot. Durante a instalação, selecionei o disco principal e o sistema de arquivos*.
+* **O que fazer:** Gravei a ISO em um pendrive (Ventoy/Rufus) e dei boot. Durante a instalação, selecionei o disco principal e o sistema de arquivos.
 * **Configuração de Rede:** Defini um IP Estático para o Proxmox. 
     * *Dica de Ouro:* Nunca deixe um servidor de infraestrutura em DHCP. Se o IP mudar, você perde o acesso a tudo.
 * **O que NÃO fazer:** Escolher uma senha de root fraca. Lembre-se: quem manda no Proxmox, manda em todas as máquinas virtuais dentro dele.
