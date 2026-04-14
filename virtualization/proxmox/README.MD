@@ -6,7 +6,7 @@ Instalar o Proxmox VE (Virtual Environment) em uma máquina dedicada significa s
 Este é o primeiro passo para criar um ecossistema de servidores isolados, permitindo que eu suba um SOC (Security Operations Center) completo, incluindo o **Wazuh**, sem fritar meu computador de uso pessoal.
 
 ### 💻 Hardware do Lab
-* **Máquina:** [Insira aqui o modelo ou specs simples, ex: Mini PC / Desktop Dedicado].
+* **Máquina:** Intel Xeon e5 2630 v4.
 * **Objetivo:** Virtualizar instâncias Linux/Windows, containers LXC e, futuramente, meu nó de monitoramento SIEM.
 
 ---
