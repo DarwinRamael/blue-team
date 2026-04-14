@@ -89,4 +89,4 @@ Este projeto prova que com hardware reciclado e software certo, você pode ter s
 
 -----
 
-**Curtiu o projeto?** Conecte-se comigo no [LinkedIn](www.linkedin.com/in/tecdarwin) para trocarmos uma ideia sobre Cyber\!
+**Curtiu o projeto?** Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/tecdarwin/) para trocarmos uma ideia sobre Cyber\!
