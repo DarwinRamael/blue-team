@@ -1,9 +1,3 @@
-Com certeza\! Vamos dar uma "vitaminada" nesse texto. O objetivo é mostrar que você domina o assunto a ponto de conseguir explicar com leveza, sem perder a autoridade técnica. Recrutadores adoram ver alguém que tem **"paranóia saudável"** (essencial em segurança) e paixão pelo que faz.
-
-Aqui está a versão dinâmica e técnica para o seu GitHub:
-
------
-
 # 🛡️ Operação "Bye-Bye ISP": Firewall de Borda com pfSense & Suricata
 
 ## 📖 Por que este projeto existe?
