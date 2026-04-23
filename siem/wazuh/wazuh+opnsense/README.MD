@@ -175,5 +175,4 @@ Confira o projeto completo:
 As imagens devem ser adicionadas nos pontos indicados para complementar a documentação visual e fortalecer a apresentação do projeto.
 
 ---
-Só falar 👍
 
