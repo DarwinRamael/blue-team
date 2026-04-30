@@ -122,7 +122,7 @@ Logs e alertas foram analisados continuamente:
 * Validação de detecções
 
 <p align="center">
-  <img src="IDS.jpeg" width="700">
+  <img src="/IDS.jpeg" width="700">
 </p>
 ---
 
