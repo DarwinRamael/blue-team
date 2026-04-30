@@ -52,6 +52,10 @@ suricata -i eth0
 
 ➡️ **Insight:** A escolha correta da interface é essencial para visibilidade completa do tráfego
 
+<p align="center">
+  <img src="images/suricata_add.jpeg" width="700">
+</p>
+
 ---
 
 ## 🔬 Fase 2 – Deep Packet Inspection (DPI)
