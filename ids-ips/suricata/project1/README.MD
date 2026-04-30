@@ -1,4 +1,4 @@
-# 🛡️ IDS/IPS Lab – Suricata (Threat Detection & Traffic Analysis)
+# 🛡️ IDS/IPS Lab – Suricata
 
 Este projeto documenta a implementação de um laboratório de **IDS/IPS utilizando Suricata**, com foco em **detecção de ameaças, inspeção de tráfego e validação prática de regras de segurança**.
 
