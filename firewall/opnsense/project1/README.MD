@@ -72,7 +72,7 @@ Se o firewall é o muro, o **Suricata** é o guarda que inspeciona cada mochila 
 4.  **Hardware Offloading:** Ajustado para garantir que a inspeção não gere gargalos na velocidade da fibra.
 
 <p align="center">
-  <img src="images/ids.jpeg" width="700">
+  <img src="images/IDS.jpeg" width="700">
 </p>
 
 ---
