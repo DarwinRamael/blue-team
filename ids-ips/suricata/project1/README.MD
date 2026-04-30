@@ -25,7 +25,9 @@ O ambiente foi estruturado com os seguintes componentes:
 * **Máquina atacante (simulada)** → Geração de tráfego malicioso
 * **Máquina alvo** → Recebimento e análise de ataques
 
-[INSERIR IMAGEM: diagrama da arquitetura do laboratório IDS/IPS]
+<p align="center">
+  <img src="images/diagram.jpeg" width="700">
+</p>
 
 ---
 
@@ -69,7 +71,7 @@ O Suricata foi configurado para realizar inspeção profunda de pacotes, permiti
 ➡️ **Diferencial:** DPI permite detectar ameaças que não seriam visíveis apenas por análise superficial
 
 <p align="center">
-  <img src="images/IDS.jpeg" width="700">
+  <img src="images/suricata_features.jpeg" width="700">
 </p>
 
 ---
@@ -119,8 +121,9 @@ Logs e alertas foram analisados continuamente:
 * Correlação manual de atividades
 * Validação de detecções
 
-[INSERIR IMAGEM: logs/alertas do Suricata]
-
+<p align="center">
+  <img src="IDS.jpeg" width="700">
+</p>
 ---
 
 ## 🎯 Fase 6 – Tuning e Redução de Falsos Positivos
