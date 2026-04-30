@@ -1,4 +1,4 @@
-# 🛡️ SOC Lab – SIEM com Wazuh + OPNsense (Blue Team Project)
+# 🛡️ SOC Lab – SIEM com Wazuh + OPNsense
 
 Este projeto documenta a implementação de um **Security Operations Center (SOC) Lab**, com foco em **monitoramento contínuo, detecção de ameaças e resposta automatizada a incidentes**.
 
