@@ -68,6 +68,10 @@ O Suricata foi configurado para realizar inspeção profunda de pacotes, permiti
 
 ➡️ **Diferencial:** DPI permite detectar ameaças que não seriam visíveis apenas por análise superficial
 
+<p align="center">
+  <img src="images/IDS.jpeg" width="700">
+</p>
+
 ---
 
 ## 🧾 Fase 3 – Regras de Detecção (Signatures)
@@ -86,6 +90,10 @@ alert tcp any any -> any 80 (msg:"HTTP suspicious traffic"; content:"malicious";
 ```
 
 ➡️ **Objetivo:** Detectar padrões específicos de tráfego suspeito
+
+<p align="center">
+  <img src="images/suricata_rules.jpeg" width="700">
+</p>
 
 ---
 
