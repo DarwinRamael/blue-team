@@ -20,22 +20,7 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 
 O ambiente foi estruturado com os seguintes componentes:
 
-[ Endpoints / Hosts ]
-        |
-        |  (Logs de sistema + tráfego)
-        v
-[ Rede Simulada ]
-        |
-        |  (Tráfego legítimo + malicioso)
-        v
-[ OPNsense Firewall ]
-        |
-        |  (Logs + Eventos + Alertas Suricata)
-        v
-[ Wazuh (SIEM / XDR) ]
-        |
-        v
-[ Correlação / Monitoramento / Alertas ]
+*Endpoints → Rede → OPNsense → Wazuh → SOC
 
 ---
 
