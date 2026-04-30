@@ -19,21 +19,21 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 ## 🧱 Arquitetura do Lab
 
 O ambiente foi estruturado com os seguintes componentes:
-+----------------------+
-                        |        WAZUH         |
-                        |      (SIEM/XDR)      |
-                        |  Monitoramento / SOC |
-                        +----------+-----------+
-                                   ^
-                                   |
-                         Logs / Alertas / Eventos
-                                   |
-+-------------------+     +--------+--------+     +-------------------+
-|     ENDPOINTS     | --> |     REDE        | --> |     OPNsense      |
-|  Hosts / Servers  |     |   SIMULADA      |     |     Firewall      |
-|  Logs de Sistema  |     | Tráfego (Legít. |     |  Regras / IDS/IPS |
-+-------------------+     |  e Malicioso)   |     +-------------------+
-                          +-----------------+
+
+[ Endpoints ]
+     |
+     v
+[ Rede Simulada ]
+     |
+     v
+[ OPNsense Firewall ]
+     |
+     | (Logs / Suricata / Eventos)
+     v
+[ Wazuh SIEM/XDR ]
+     |
+     v
+[ Alertas / Dashboards / Correlação ]
 ---
 
 ## 🔍 Fase 1 – Implementação do SIEM
