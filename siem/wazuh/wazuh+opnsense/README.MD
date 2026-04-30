@@ -23,7 +23,7 @@ O ambiente foi estruturado com os seguintes componentes:
 <p align="center">
   <img src="images/soc_diagram.jpeg" width="700">
 </p>
----
+
 
 ## 🔍 Fase 1 – Implementação do SIEM
 
