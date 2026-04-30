@@ -22,7 +22,9 @@ O primeiro passo é mapear o território. No console do OPNsense, definimos quem
 * **Por que:** Sem uma demarcação clara, o firewall é apenas um computador caro. Aqui, garantimos que nada passe da WAN para a LAN sem uma regra explícita de "sim, eu permito".
 * **Dica de mestre:** No OPNsense, aproveite para já configurar as VLANs se você pretende separar o tráfego de IoT (lâmpadas, câmeras) da sua rede principal de trabalho.
 
-> *(Imagem: Interface de atribuição de portas no OPNsense, limpa e funcional)*
+<p align="center">
+  <img src="images/opnsense_cli.jpeg" width="700">
+</p>
 
 ---
 
