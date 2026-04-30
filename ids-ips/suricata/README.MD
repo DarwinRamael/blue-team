@@ -1,5 +1,5 @@
 
-# 👁️ Projeto Suricata Deep Dive: Deixando a Rede Inteligente
+# 👁️ Projeto Suricata: Deixando a Rede Inteligente
 
 ## 📖 O que é este projeto?
 O objetivo aqui não é apenas "instalar o Suricata", mas sim **doutriná-lo**. Vamos configurar regras personalizadas, testar assinaturas de ataques comuns e entender como ele transita de um simples observador (IDS) para um executor impiedoso (IPS).
