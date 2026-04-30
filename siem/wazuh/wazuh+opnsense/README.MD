@@ -172,7 +172,7 @@ Confira o projeto completo:
 
 ## 📎 Observação
 
-As imagens devem ser adicionadas nos pontos indicados para complementar a documentação visual e fortalecer a apresentação do projeto.
+As imagens serão adicionadas com o passar do tempo.
 
 ---
 
