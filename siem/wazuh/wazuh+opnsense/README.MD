@@ -20,8 +20,9 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 
 O ambiente foi estruturado com os seguintes componentes:
 
-* Endpoints → Rede → OPNsense → Wazuh → SOC
-
+<p align="center">
+  <img src="images/soc_diagram.jpeg" width="700">
+</p>
 ---
 
 ## 🔍 Fase 1 – Implementação do SIEM
