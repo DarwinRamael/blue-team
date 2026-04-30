@@ -20,66 +20,21 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 
 O ambiente foi estruturado com os seguintes componentes:
 
-<div align="center">
-
-<svg width="700" height="400" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Endpoints -->
-  <rect x="50" y="150" width="120" height="60" rx="10" fill="#2d3748"/>
-  <text x="110" y="185" text-anchor="middle" fill="white" font-size="12">
-    Endpoints
-  </text>
-  <text x="110" y="200" text-anchor="middle" fill="white" font-size="10">
-    Logs / Eventos
-  </text>
-
-  <!-- Network -->
-  <rect x="220" y="150" width="120" height="60" rx="10" fill="#4a5568"/>
-  <text x="280" y="185" text-anchor="middle" fill="white" font-size="12">
-    Rede Simulada
-  </text>
-  <text x="280" y="200" text-anchor="middle" fill="white" font-size="10">
-    Tráfego
-  </text>
-
-  <!-- OPNsense -->
-  <rect x="390" y="150" width="120" height="60" rx="10" fill="#dd6b20"/>
-  <text x="450" y="180" text-anchor="middle" fill="white" font-size="12">
-    OPNsense
-  </text>
-  <text x="450" y="200" text-anchor="middle" fill="white" font-size="10">
-    Firewall
-  </text>
-
-  <!-- Wazuh -->
-  <rect x="550" y="100" width="120" height="80" rx="10" fill="#2b6cb0"/>
-  <text x="610" y="140" text-anchor="middle" fill="white" font-size="12">
-    Wazuh
-  </text>
-  <text x="610" y="160" text-anchor="middle" fill="white" font-size="10">
-    SIEM / XDR
-  </text>
-
-  <!-- Arrows -->
-  <line x1="170" y1="180" x2="220" y2="180" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
-  <line x1="340" y1="180" x2="390" y2="180" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
-  <line x1="510" y1="180" x2="550" y2="140" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
-
-  <!-- Arrow definition -->
-  <defs>
-    <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L9,3 z" fill="black" />
-    </marker>
-  </defs>
-
-  <!-- Labels -->
-  <text x="195" y="170" font-size="10">Eventos</text>
-  <text x="365" y="170" font-size="10">Tráfego</text>
-  <text x="520" y="150" font-size="10">Logs / Alertas</text>
-
-</svg>
-
-</div>
+                        +----------------------+
+                        |        WAZUH         |
+                        |      (SIEM/XDR)      |
+                        |  Monitoramento / SOC |
+                        +----------+-----------+
+                                   ^
+                                   |
+                         Logs / Alertas / Eventos
+                                   |
++-------------------+     +--------+--------+     +-------------------+
+|     ENDPOINTS     | --> |     REDE        | --> |     OPNsense      |
+|  Hosts / Servers  |     |   SIMULADA      |     |     Firewall      |
+|  Logs de Sistema  |     | Tráfego (Legít. |     |  Regras / IDS/IPS |
++-------------------+     |  e Malicioso)   |     +-------------------+
+                          +-----------------+
 
 ---
 
