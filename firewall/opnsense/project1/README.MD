@@ -42,6 +42,10 @@ Nada de configurações padrão. Aqui a gente aperta os parafusos desde o minuto
 * **Configuração:** Ativação imediata de **"Block Private Networks"** e **"Block Bogon Networks"**.
 * **O efeito:** Isso cria um "buraco negro" para tráfego inválido. Se o pacote não deveria estar na internet pública, ele morre na casca antes de chegar perto dos seus dispositivos.
 
+<p align="center">
+  <img src="images/opnsense_login.jpeg" width="700">
+</p>
+
 ---
 
 ## 🔒 Passo 3: Fortificando o Acesso (Hardening)
