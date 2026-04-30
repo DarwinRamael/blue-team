@@ -56,6 +56,10 @@ Um firewall que pode ser acessado por qualquer um não é um firewall, é um alv
 * **Por que:** Se alguém conseguir o seu login, ainda precisará do token no seu celular para entrar. Segurança em camadas!
 * **Anti-Brute Force:** O OPNsense já vem com proteções nativas para banir IPs que tentam errar a senha repetidamente.
 
+<p align="center">
+  <img src="images/opnsense.jpeg" width="700">
+</p>
+
 ---
 
 ## 🕵️ Passo 4: Suricata - A Inteligência de Borda (IDS/IPS)
@@ -67,7 +71,9 @@ Se o firewall é o muro, o **Suricata** é o guarda que inspeciona cada mochila 
 3.  **Inspeção de Pacotes:** Diferente de um firewall comum que olha apenas "quem e para onde", o Suricata olha o **conteúdo**. Se um pacote carrega uma assinatura de ataque, o OPNsense dropa a conexão na hora.
 4.  **Hardware Offloading:** Ajustado para garantir que a inspeção não gere gargalos na velocidade da fibra.
 
-> *(Imagem: Log do Suricata detectando um port scan vindo de um IP estrangeiro)*
+<p align="center">
+  <img src="images/ids.jpeg" width="700">
+</p>
 
 ---
 
