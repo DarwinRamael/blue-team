@@ -108,6 +108,10 @@ A integração permitiu:
 
 ➡️ **Insight:** Integrações são fundamentais para um SOC moderno
 
+<p align="center">
+  <img src="images/opnsense_wazuh.jpeg" width="700">
+</p>
+
 ---
 
 ## 📈 Resultados Obtidos
