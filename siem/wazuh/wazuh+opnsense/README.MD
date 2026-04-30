@@ -19,8 +19,7 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 ## 🧱 Arquitetura do Lab
 
 O ambiente foi estruturado com os seguintes componentes:
-
-                        +----------------------+
++----------------------+
                         |        WAZUH         |
                         |      (SIEM/XDR)      |
                         |  Monitoramento / SOC |
@@ -35,7 +34,6 @@ O ambiente foi estruturado com os seguintes componentes:
 |  Logs de Sistema  |     | Tráfego (Legít. |     |  Regras / IDS/IPS |
 +-------------------+     |  e Malicioso)   |     +-------------------+
                           +-----------------+
-
 ---
 
 ## 🔍 Fase 1 – Implementação do SIEM
