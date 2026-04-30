@@ -20,20 +20,20 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 
 O ambiente foi estruturado com os seguintes componentes:
 
-[ Endpoints ]
-     |
-     v
-[ Rede Simulada ]
-     |
-     v
-[ OPNsense Firewall ]
-     |
-     | (Logs / Suricata / Eventos)
-     v
-[ Wazuh SIEM/XDR ]
-     |
-     v
-[ Alertas / Dashboards / Correlação ]
+*[ Endpoints ]
+*     |
+*    v
+*[ Rede Simulada ]
+*     |
+*     v
+*[ OPNsense Firewall ]
+*     |
+*     | (Logs / Suricata / Eventos)
+*     v
+*[ Wazuh SIEM/XDR ]
+*     |
+*     v
+*[ Alertas / Dashboards / Correlação ]
 ---
 
 ## 🔍 Fase 1 – Implementação do SIEM
