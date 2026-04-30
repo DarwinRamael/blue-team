@@ -20,7 +20,7 @@ O ambiente foi projetado para simular cenários reais de defesa cibernética, pe
 
 O ambiente foi estruturado com os seguintes componentes:
 
-*Endpoints → Rede → OPNsense → Wazuh → SOC
+* Endpoints → Rede → OPNsense → Wazuh → SOC
 
 ---
 
