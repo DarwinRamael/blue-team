@@ -36,6 +36,10 @@ O Wazuh foi configurado para coletar e centralizar eventos provenientes de:
 
 ➡️ **Objetivo:** Criar visibilidade unificada do ambiente
 
+<p align="center">
+  <img src="images/opnsense.jpeg" width="700">
+</p>
+
 ---
 
 ### 🔗 Correlação de Eventos
