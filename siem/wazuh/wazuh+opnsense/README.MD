@@ -52,6 +52,10 @@ Foram configuradas regras para identificar padrões suspeitos, como:
 
 ➡️ **Insight:** A correlação permite transformar logs isolados em **alertas acionáveis**
 
+<p align="center">
+  <img src="images/wazuh.jpeg" width="700">
+</p>
+
 ---
 
 ## 🔥 Fase 2 – Monitoramento Contínuo
@@ -62,7 +66,9 @@ O ambiente foi projetado para operar em tempo real, permitindo:
 * Geração automática de alertas
 * Visualização centralizada via dashboard
 
-[INSERIR IMAGEM: dashboard do Wazuh mostrando alertas]
+<p align="center">
+  <img src="images/wazuh_detection.jpeg" width="700">
+</p>
 
 ---
 
