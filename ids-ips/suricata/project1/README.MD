@@ -183,16 +183,11 @@ Este laboratório reforça a importância de sistemas de detecção bem configur
 ✔ Tuning é uma etapa crítica em qualquer solução de segurança
 ✔ Visibilidade de rede é um dos pilares da defesa cibernética
 
----
-
-## 🔗 Referência
-
-[INSERIR LINK DO PROJETO AQUI]
 
 ---
 
 ## 📎 Observação
 
-As imagens devem ser adicionadas nos pontos indicados para enriquecer a apresentação e evidenciar os resultados obtidos.
+As imagens serão adicionadas com o passar do tempo.
 
 ---
