@@ -160,13 +160,6 @@ A experiência adquirida demonstra habilidades aplicáveis a funções como:
 * Blue Team Engineer
 * Cybersecurity Analyst
 
----
-
-## 🔗 Referência
-
-Confira o projeto completo:
-
-[INSERIR LINK DO PROJETO AQUI]
 
 ---
 
